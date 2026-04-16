@@ -1,0 +1,13 @@
+name: mss_core
+description: Base interfaces for the Memention Software Shop plugin system.
+version: 0.1.0
+homepage: https://mss.memention.net
+repository: https://github.com/flutter-mss/mss_core
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
