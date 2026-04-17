@@ -406,6 +406,11 @@ your first plugin.
 - **[demo_alternative_physics](https://github.com/flutter-mss/demo_alternative_physics)** —
   single-package extension in its own repo. Minimal case.
 
+To test your plugin end-to-end, grab the signed MSS client from
+[flutter-mss/mss_releases](https://github.com/flutter-mss/mss_releases/releases/latest),
+register your plugin through its *Publish* flow, and assemble an app that
+consumes it.
+
 ## Pitfalls
 
 - **Re-prefixing the plugin name.** If your package is named
